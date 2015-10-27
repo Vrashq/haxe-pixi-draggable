@@ -1,0 +1,14 @@
+{
+  "name": "haxe-pixi-draggable",
+  "license": "MIT",
+  "tags": ["js","haxe","extern","web"],
+  "description": "Haxe externs for PIXI.draggable",
+  "contributors": ["Vrashq"],
+  "releasenote": "",
+  "version": "1.0.0",
+  "url": "https://github.com/Vrashq/haxe-pixi-draggable",
+  "classPath": "",
+  "dependencies": {
+
+  }
+}
